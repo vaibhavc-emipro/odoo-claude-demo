@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Demo Ept",
+    'name': "Git Demo Ept",
     'summary': "Simple demo module to track tasks",
     'description': """A minimal demo module with a single model, views and a menu.""",
     'author': 'Emipro Technologies Pvt. Ltd.',
